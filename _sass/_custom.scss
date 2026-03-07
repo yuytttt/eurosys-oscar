@@ -1,1 +1,13 @@
 /* add your tweaks here! */
+body {
+  background-image: url('../images/oscar-banner.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.container-lg {
+  background-color: rgba(255, 255, 255, 0.92);
+  padding: 2rem;
+  border-radius: 4px;
+}

@@ -1,24 +1,36 @@
 ---
 title: Home
 layout: page
+
 ---
 
-# Bootstrap Workshop Template!
+# OSCAR: Open Systems Challenges — Agenda and Roadmap
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+**Co-located with EuroSys 2026**
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+<!-- 把banner图放到images/文件夹，修改下面的文件名 -->
+{% include figure.html img="oscar-banner.jpg" alt="OSCAR Workshop at EuroSys 2026, Edinburgh" width="100%" %}
 
-*Add your workshop abstract here!*
+|          |                |
+| -------- | -------------- |
+| **Date** | April 27, 2026 |
+| **Time** | 09:00 – 12:30  |
+| **Room** | TBD            |
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+---
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+## Abstract
 
-{% include toc.html %}
+Focusing on the challenges faced by systems research driven by AI workloads, prominent figures from academia and industry discuss and explore directions for research topics that have lasting value.
 
-------
+---
 
-{% include template/credits.html %}
+## Agenda
+
+TBD
+
+---
+
+## Workshop Committee
+
+TBD
