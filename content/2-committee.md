@@ -17,7 +17,25 @@ nav: Committee
 </div>
 
 
+
 <hr>
+
+
+
+<div class="row mt-4 mb-4">
+  <div class="col-md-3 text-center">
+    <img src="{{ '/images/committee-boris-grot.jpg' | relative_url }}" alt="Boris Grot" class="rounded-circle img-fluid mb-2" style="width:140px;height:140px;object-fit:cover;">
+  </div>
+  <div class="col-md-9">
+    <h4><a href="https://people.inf.ed.ac.uk/Boris_Grot.html" target="_blank">Prof. Bris Grot</a></h4>
+    <p><strong>University of Edinburgh</strong></p>
+  </div>
+</div>
+
+
+
+<hr>
+
 
 
 <div class="row mt-4 mb-4">

@@ -30,12 +30,28 @@ A central aim of the workshop is to strengthen the dialogue between academic and
 
 ---
 
-## Agenda
+## <a href="{{ site.baseurl }}/content/1-program" target="_blank">Program</a>
 
 TBD
 
 ---
 
-## Workshop Committee
+## <a href="{{ site.baseurl }}/content/2-committee" target="_blank">Workshop Committee</a>
 
-TBD
+<div class="row mt-4 mb-4">
+  <div class="col-md-6">
+    <h5><a href="https://people.inf.ed.ac.uk/Adam_Barker.html" target="_blank">Prof. Adam Barker</a></h5>
+    <p><strong>University of Edinburgh</strong></p>
+  </div>
+
+  <div class="row mt-4 mb-4">
+  <div class="col-md-6">
+    <h5><a href="https://people.inf.ed.ac.uk/Boris_Grot.html" target="_blank">Prof. Boris Grot</a></h5>
+    <p><strong>University of Edinburgh</strong></p>
+  </div>
+
+  <div class="row mt-4 mb-4">
+    <h5><a href="https://www.chalmers.se/en/persons/ahmhass/" target="_blank">Prof. Ahmed Ali-Eldin Hassan</a></h5>
+    <p><strong>Chalmers University of Technology</strong></p>
+  </div>
+</div>
