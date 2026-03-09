@@ -18,7 +18,7 @@ TBD
   </div>
   <div class="col-md-9">
     <h4>Ant Rowstron</h4>
-    <p><strong>CTO at ARIA, ex-Distinguished Engineer, Microsoft Research</strong></p>
+    <p><strong>CTO of ARIA Research</strong></p>
     <p><em>Talk: How Will AI Systems Do Systems Research?</em></p>
   </div>
 </div>
@@ -44,12 +44,12 @@ TBD
 
 <div class="row mt-4 mb-4">
   <div class="col-md-3 text-center">
-    <img src="{{ '/images/speaker-hu-xinwei.jpg' | relative_url }}" alt="Hu Xinwei" class="rounded-circle img-fluid mb-2" style="width:140px;height:140px;object-fit:cover;">
+    <img src="{{ '/images/xinwei-hu.jpg' | relative_url }}" alt="Hu Xinwei" class="rounded-circle img-fluid mb-2" style="width:140px;height:140px;object-fit:cover;">
   </div>
   <div class="col-md-9">
     <h4>Xinwei Hu</h4>
     <p><strong>Chairperson of openEuler Technical Committee</strong></p>
-    <p><em>Talk: Key Technologies of the Intelligence Boom in openEuler</em></p>
+    <p><em>TBD</em></p>
   </div>
 </div>
 
