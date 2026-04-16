@@ -47,24 +47,29 @@ A central aim of the workshop is to strengthen the dialogue between academic and
       <td style="vertical-align:middle">Prof. Timothy Roscoe<br><small class="text-muted">ETH Zürich</small></td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; white-space:nowrap">14:45 – 15:30</td>
-      <td style="vertical-align:middle">How Will AI Systems Do Systems Research?</td>
-      <td style="vertical-align:middle">Ant Rowstron<br><small class="text-muted">CTO at ARIA</small></td>
+      <td style="vertical-align:middle; white-space:nowrap">14:45 – 15:05</td>
+      <td style="vertical-align:middle">Rising Star Talk</td>
+      <td style="vertical-align:middle">Guangming Sheng<br><small class="text-muted">University of Hongkong</small></td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; white-space:nowrap">15:30 – 16:00</td>
+      <td style="vertical-align:middle; white-space:nowrap">15:05 – 15:45</td>
+      <td style="vertical-align:middle">TBA</td>
+      <td style="vertical-align:middle">Prof. Kenneth P. Birman<br><small class="text-muted">Cornell University</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; white-space:nowrap">15:45 – 16:05</td>
       <td style="vertical-align:middle"><em>Coffee Break</em></td>
       <td></td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; white-space:nowrap">16:00 – 16:45</td>
-      <td style="vertical-align:middle">TBA</td>
+      <td style="vertical-align:middle; white-space:nowrap">16:05 – 16:45</td>
+      <td style="vertical-align:middle">Towards A Learning-Directed Operating System</td>
       <td style="vertical-align:middle">Prof. Aditya Akella<br><small class="text-muted">University of Texas at Austin</small></td>
     </tr>
     <tr>
       <td style="vertical-align:middle; white-space:nowrap">16:45 – 17:30</td>
-      <td style="vertical-align:middle">TBA</td>
-      <td style="vertical-align:middle">Guangming Sheng<br><small class="text-muted">University of Hongkong</small></td>
+      <td style="vertical-align:middle">How Will AI Systems Do Systems Research?</td>
+      <td style="vertical-align:middle">Ant Rowstron<br><small class="text-muted">CTO at ARIA</small></td>
     </tr>
   </tbody>
 </table>
