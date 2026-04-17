@@ -27,7 +27,7 @@ nav: Program
     </tr>
     <tr>
       <td style="vertical-align:middle; white-space:nowrap">15:05 – 15:45</td>
-      <td style="vertical-align:middle">TBA</td>
+      <td style="vertical-align:middle">AI Systems Research in a Vibe Coding Era</td>
       <td style="vertical-align:middle">Prof. Kenneth P. Birman<br><small class="text-muted">Cornell University</small></td>
     </tr>
     <tr>
@@ -71,11 +71,11 @@ nav: Program
 <!-- speaker2 -->
 <div class="row mt-4 mb-4">
   <div class="col-md-3 d-flex align-items-center justify-content-center">
-    <img src="{{ '/images/speaker-guangming.jpg' | relative_url }}" alt="Sheng Guangming" class="rounded-circle img-fluid mb-2" style="width:140px;height:140px;object-fit:cover;">
+    <img src="{{ '/images/guangming.jpg' | relative_url }}" alt="Sheng Guangming" class="rounded-circle img-fluid mb-2" style="width:140px;height:140px;object-fit:cover;">
   </div>
   <div class="col-md-9">
     <h4>Guangming Sheng</h4>
-    <p><strong> - TBA<br>
+    <p><strong> - University of Hong Kong<br>
                 - TBA</strong></p>
     <p><em>Talk: TBA</em></p>
   </div>
@@ -94,7 +94,7 @@ nav: Program
   <div class="col-md-9">
     <h4>Prof. Kenneth P. Birman</h4>
     <p><strong> - N. Rama Rao Professor of Computer Science, Cornell University</strong></p>
-    <p><em>Talk: TBA</em></p>
+    <p><em>Talk: AI Systems Research in a Vibe Coding Era</em></p>
   </div>
 </div>
 
@@ -161,11 +161,11 @@ TBA
 ---
 
 
-### TBA
+### AI Systems Research in a Vibe Coding Era
 
 *Prof. Kenneth P. Birman*
 
-TBA
+Pervasive adoption of coding agents like Claude Opus and OpenAI Codex is rapidly transforming software development, especially for teams building applications on complex APIs—work that previously required substantial expertise. This talk examines how this shift changes the questions systems researchers should ask, and how evolving coding practices impact the scope of experimental research. While these trends boost productivity, they risk locking us into ideas current AIs can learn from, leaving them unprepared for fundamentally new paradigms. Using RDMA as an example, I highlight what such shifts demand from researchers and what they warn about future emerging technologies.
 
 
 ---

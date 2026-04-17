@@ -53,7 +53,7 @@ A central aim of the workshop is to strengthen the dialogue between academic and
     </tr>
     <tr>
       <td style="vertical-align:middle; white-space:nowrap">15:05 – 15:45</td>
-      <td style="vertical-align:middle">TBA</td>
+      <td style="vertical-align:middle">AI Systems Research in a Vibe Coding Era</td>
       <td style="vertical-align:middle">Prof. Kenneth P. Birman<br><small class="text-muted">Cornell University</small></td>
     </tr>
     <tr>
